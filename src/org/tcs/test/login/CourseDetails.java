@@ -25,6 +25,7 @@ package org.tcs.test.login;
 			CourseDetails cd=new CourseDetails();
 			cd.javaCourse();
 			cd.pythonCourse();
+			cd.ApiCourse();
 		}
 
 	}
