@@ -16,10 +16,16 @@ package org.tcs.test.login;
 			System.out.println("python course is not taken");
 			
 		}
+		private void ApiCourse() {
+			// TODO Auto-generated method stub
+			System.out.println("API cousre is not taken");
+
+		}
 		public static void main(String[] args) {
 			CourseDetails cd=new CourseDetails();
 			cd.javaCourse();
 			cd.pythonCourse();
+			cd.ApiCourse();
 		}
 
 	}
