@@ -21,11 +21,15 @@ package org.tcs.test.login;
 			System.out.println("API cousre is not taken");
 
 		}
+		private void Ai() {
+System.out.println("AI couse is taken");
+		}
 		public static void main(String[] args) {
 			CourseDetails cd=new CourseDetails();
 			cd.javaCourse();
 			cd.pythonCourse();
 			cd.ApiCourse();
+			cd.Ai();
 		}
 
 	}
