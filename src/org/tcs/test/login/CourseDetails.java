@@ -13,12 +13,12 @@ package org.tcs.test.login;
 		}
 		private void pythonCourse() {
 			
-			System.out.println("python course is not taken");
+			System.out.println("python course is  taken");
 			
 		}
 		private void ApiCourse() {
 			// TODO Auto-generated method stub
-			System.out.println("API cousre is not taken");
+			System.out.println("API cousre is  taken ");
 
 		}
 		public static void main(String[] args) {
